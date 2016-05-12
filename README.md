@@ -21,4 +21,5 @@ After you sign up, go to the top and Click My Account -> AWS Management Console.
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/Dashboard1.png)
 
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/Dashboard2.png)
 
