@@ -104,8 +104,14 @@ Click launch and your instance will be launched. You can find your instance and 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/instancedashboard.png)
 
 
-On the dashboard
+Let's begin connecting to our instance server. On the dashboard:
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/instancedashboard2.png)
+
+
+Once you click on Connect, you will see this, which are instructions on how to connect via SSH. If you are on Linux or Mac, follow the instructions. If you are on Windows, you will have to use Putty. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/connect.png)
 
 
 ##SSH
