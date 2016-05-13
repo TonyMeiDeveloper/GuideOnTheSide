@@ -116,7 +116,9 @@ Create a MySQL database for Guide on the Side. Tutorials and data have to be sto
 CREATE DATABASE guide_on_the_side;
 ```
 Then add a user and password associated with the database. 
-
+```
+GRANT ALL ON guide_on_the_side.* TO gots_user@localhost IDENTIFIED BY 'my_password';
+```
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/gos7.png)
 
