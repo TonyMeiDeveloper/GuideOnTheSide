@@ -41,10 +41,16 @@ The first thing you see is Choosing an Amazon Machine Image or Operating System 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config1.png)
 
 
-Second configuration is specifying the specs or hardware of the virtual machine you want. You can choose what king of CPUs, how much memory, etc, for your machine. Since, I am on the free tier, I will choose the t2.micro type.  
+Second configuration is specifying the specs or hardware of the virtual machine you want. You can choose what kind of CPUs, how much memory, etc, for your machine. Since, I am on the free tier, I will choose the t2.micro type.  
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config2.png)
+
+
+Third configuration is setting how many instance you want as well as other settings like VPC, IAM, etc. For simplicity, I'll this page as is and don't change anything.     
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config3.png)
 
 
 
