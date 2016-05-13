@@ -16,5 +16,8 @@ Here is a sample screenshot of a Tutorial:
 
 
 
-How to:
+How to:    
 
+Start with First Step:     
+
+https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/Step%201:%20Deploy%20Virtual%20Server.md
