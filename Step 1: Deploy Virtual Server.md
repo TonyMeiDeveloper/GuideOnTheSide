@@ -157,6 +157,7 @@ sudo apt-get install apache2 libapache2-mod-php5 mysql-server php5-mysql php5
 After some waiting, you will be prompted with setting a password for MySQL. 
 
 
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install2.png)
 
 
 
