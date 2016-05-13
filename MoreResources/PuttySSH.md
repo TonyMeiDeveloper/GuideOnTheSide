@@ -19,5 +19,11 @@ Next, click Load to load an existing private key file. Select your key which sho
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/puttygen2.png)
 
 
+After you load your .pem private key. Click on Save Private key under the Load button. I haven't put in a key passphrase, but you can try it. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/puttygen3.png)
+
+
 
 
