@@ -25,5 +25,11 @@ After you load your .pem private key. Click on Save Private key under the Load b
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/puttygen3.png)
 
 
+Save the new key as .ppk. .ppk works for Putty. Exit out of Puttygen. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/puttygen4.png)
+
+
 
 
