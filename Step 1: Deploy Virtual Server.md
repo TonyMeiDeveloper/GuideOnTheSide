@@ -57,7 +57,7 @@ Third configuration is setting how many instance you want as well as other setti
 
 
 ##Fourth Configuration 
-Forth configuartion is adding more storage to your virtual server, but keep in mind that there is a limit on storage for Free Tier customers. 
+Fourth configuartion is adding more storage to your virtual server, but keep in mind that there is a limit on storage for Free Tier customers. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config4.png)
@@ -68,6 +68,19 @@ Fifth configuration is about tagging instances and resources. I believe it is us
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config5.png)
+
+
+##Sixth Configuration
+Sixth Configuration is where you create a new security group. Security groups are essentially a set of rules that control incoming and outgoing traffic for your instance. You can allow or disallow SSH, POP3, DNS, and others on your virtual server.      
+
+For this case, we will need SSH to connect to your virtual server to install a variety of tools and deploy Guide on the Side.   
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.png)
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.5.png)
+
 
 
 
