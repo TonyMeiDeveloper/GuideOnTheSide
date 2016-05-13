@@ -7,3 +7,9 @@ SSH via Terminal is pretty simple as AWS gives you a straight forward tutorial, 
 If you using a Mac or Linux, search for Terminal. It should be preinstalled. I HOPE :)
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal1.png)
+
+
+You should know some Terminal Commands that are commonly use. First is ls which lists and shows all the files and folders on your current directory.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal2.png)
