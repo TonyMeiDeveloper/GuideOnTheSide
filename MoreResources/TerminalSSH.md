@@ -11,5 +11,8 @@ If you using a Mac or Linux, search for Terminal. It should be preinstalled. I H
 
 You should know some Terminal Commands that are commonly use. First is ls which lists and shows all the files and folders on your current directory.
 
+```
+ls
+```
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal2.png)
