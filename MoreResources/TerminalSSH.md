@@ -50,5 +50,7 @@ Don't know your Public DNS? Go on the Instance Dashboard on AWS and copy it.
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal5.png)
 
 
+Once you are done, go back to the rest of Guide 1. 
+
 
 
