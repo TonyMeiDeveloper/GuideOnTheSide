@@ -63,4 +63,11 @@ Forth configuartion is adding more storage to your virtual server, but keep in m
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config4.png)
 
 
+##Fifth Configuration
+Fifth configuration is about tagging instances and resources. I believe it is used for better searching and navigation. For my case, I don't really need it so I left it alone. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config5.png)
+
+
 
