@@ -104,7 +104,16 @@ Click launch and your instance will be launched. You can find your instance and 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/instancedashboard.png)
 
 
+##SSH
+Let's SSH to connect to our instance server. I will be using a variety of Terminal Commands. Here are some common ones you should know before moving on:
 
+```
+ls
+cd 
+cd ..
+vim
+sudo
+```
 
 
 
