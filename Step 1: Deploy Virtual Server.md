@@ -73,12 +73,13 @@ Fifth configuration is about tagging instances and resources. I believe it is us
 ##Sixth Configuration
 Sixth Configuration is where you create a new security group. Security groups are essentially a set of rules that control incoming and outgoing traffic for your instance. You can allow or disallow SSH, POP3, DNS, and others on your virtual server.      
 
-For this case, we will need SSH to connect to your virtual server to install a variety of tools and deploy Guide on the Side.   
+For this case, we will need SSH to connect to the virtual server to install a variety of tools and deploy Guide on the Side and HTTP so that the web application can be display on internet browsers like Google Chrome, Safari, and Internet Explorer, etc. 
 
-
+Do this: 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.png)
 
 
+Then do this: 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.5.png)
 
 
