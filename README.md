@@ -16,5 +16,5 @@ Here is a sample screenshot of a Tutorial:
 
 
 
-TUTORIAL:
+How to:
 
