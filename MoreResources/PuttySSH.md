@@ -31,5 +31,11 @@ Save the new key as .ppk. .ppk works for Putty. Exit out of Puttygen.
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/puttygen4.png)
 
 
+##Putty
+
+To connect using Putty you need a hostname. The Hostname is username@public_dns_name. I'm using Ubuntu so username is Ubuntu. Find other usernames at http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html. 
+
+To find the public_dns_name of your instance server, go on the instance dashboard and at the bottom under description is the Public DNS. Copy that. 
+
 
 
