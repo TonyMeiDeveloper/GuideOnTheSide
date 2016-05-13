@@ -6,4 +6,4 @@ SSH via Terminal is pretty simple as AWS gives you a straight forward tutorial, 
 
 If you using a Mac or Linux, search for Terminal. It should be preinstalled. I HOPE :)
 
-
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal1.png)
