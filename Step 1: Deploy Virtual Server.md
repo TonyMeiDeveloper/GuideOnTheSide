@@ -29,6 +29,7 @@ Right in the middle of the dashboard, you will see a big blue button to launch i
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/CreateInstance2.png)
 
 
+#Choosing Configurations for your Instance Server
 
 
 
