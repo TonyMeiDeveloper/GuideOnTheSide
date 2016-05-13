@@ -35,19 +35,21 @@ Right in the middle of the dashboard, you will see a big blue button to launch i
 
 #Choosing Configurations for your Instance Server
 
-
+##First Configuration
 The first thing you see is Choosing an Amazon Machine Image or Operating System for your server. For my case, I will choose Ubuntu Server 14.04. Also keep in mind which are covered in the free trial. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config1.png)
 
 
+##Second Configuration
 Second configuration is specifying the specs or hardware of the virtual machine you want. You can choose what kind of CPUs, how much memory, etc, for your machine. Since, I am on the free tier, I will choose the t2.micro type.  
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config2.png)
 
 
+##Third Configuration
 Third configuration is setting how many instance you want as well as other settings like VPC, IAM, etc. For simplicity, I'll this page as is and don't change anything.     
 
 
