@@ -43,4 +43,11 @@ ssh -i "yourkey" ubuntu@public DNS
 
 
 
+Don't know your Public DNS? Go on the Instance Dashboard on AWS.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal5.png)
+
+
+
 
