@@ -173,6 +173,7 @@ sudo chmod -R 777 app/tmp
 sudo chmod -R 777 app/webroot/uploads
 ```
 
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/gos12.png)
 
 
 
