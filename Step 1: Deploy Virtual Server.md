@@ -98,7 +98,7 @@ Choose Create a new Key Pair and Choose the name of your key and download it. Th
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config7.5.png)
 
 
-Click launch and your instance will be launch. You find your instance and its status on the dashboard. 
+Click launch and your instance will be launched. You can find your instance and its status on the dashboard. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/instancedashboard.png)
