@@ -26,6 +26,7 @@ Once you click on EC2, you will be greeted with a dashboard. At first glance, it
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/CreateInstance1.png)   
 
 
+
 Right in the middle of the dashboard, you will see a big blue button to launch instance. Click on it. From my understanding, an Instance is a virtual server. 
 
 
