@@ -33,44 +33,44 @@ Right in the middle of the dashboard, you will see a big blue button to launch i
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/CreateInstance2.png)
 
 
-#Choosing Configurations for your Instance Server
+##Choosing Configurations for your Instance Server
 
-##First Configuration
+###First Configuration
 The first thing you see is Choosing an Amazon Machine Image or Operating System for your server. For my case, I will choose Ubuntu Server 14.04. Also keep in mind which are covered in the free trial. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config1.png)
 
 
-##Second Configuration
+###Second Configuration
 Second configuration is specifying the specs or hardware of the virtual machine you want. You can choose what kind of CPUs, how much memory, etc, for your machine. Since, I am on the free tier, I will choose the t2.micro type.  
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config2.png)
 
 
-##Third Configuration
+###Third Configuration
 Third configuration is setting how many instance you want as well as other settings like VPC, IAM, etc. For simplicity, I'll leave this page as is and don't change anything.     
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config3.png)
 
 
-##Fourth Configuration 
+###Fourth Configuration 
 Fourth configuartion is adding more storage to your virtual server, but keep in mind that there is a limit on storage for Free Tier customers. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config4.png)
 
 
-##Fifth Configuration
+###Fifth Configuration
 Fifth configuration is about tagging instances and resources. I believe it is used for better searching and navigation. For my case, I don't really need it so I left it alone. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config5.png)
 
 
-##Sixth Configuration
+###Sixth Configuration
 Sixth Configuration is where you create a new security group. Security groups are essentially a set of rules that control incoming and outgoing traffic for your instance. You can allow or disallow SSH, POP3, DNS, and others on your virtual server.      
 
 For this case, we will need SSH to connect to the virtual server to install a variety of tools and deploy Guide on the Side and HTTP so that the web application can be display on internet browsers like Google Chrome, Safari, and Internet Explorer, etc. 
@@ -83,14 +83,23 @@ Then do this:
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.5.png)
 
 
-##Seventh Configuration
-Seventh Configuration is review all the settings and configurations you did for your virtual server. You can make last minute changes if you want. 
+###Seventh Configuration
+Seventh Configuration is review all the settings and configurations you did for your virtual server. You can make last minute changes if you want.
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config7.png)
 
 
-#Cool
+###Obtaining key and SSH
+After you are done with the Seventh Configuartion, you will be greeted with an option to create a new key pair to connect to your instance or virtual machine. 
+
+Choose Create a new Key Pair and Choose the name of your key and download it. This .pem file or private key will be needed to SSH to your vitual server.  
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config7.5.png)
+
+
+
+
 
 
 
