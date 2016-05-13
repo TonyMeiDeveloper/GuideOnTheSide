@@ -83,5 +83,14 @@ Then do this:
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config6.5.png)
 
 
+##Seventh Configuration
+Seventh Configuration is review all the settings and configurations you did for your virtual server. You can make last minute changes if you want. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config7.png)
+
+
+###Cool
+
 
 
