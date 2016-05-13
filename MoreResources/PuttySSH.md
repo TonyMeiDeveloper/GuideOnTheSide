@@ -38,4 +38,6 @@ To connect using Putty you need a hostname. The Hostname is username@public_dns_
 To find the public_dns_name of your instance server, go on the instance dashboard and at the bottom under description is the Public DNS. Copy that. 
 
 
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/publicdnsname.png)
+
 
