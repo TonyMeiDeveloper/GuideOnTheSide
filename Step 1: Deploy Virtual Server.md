@@ -90,7 +90,7 @@ Seventh Configuration is review all the settings and configurations you did for 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config7.png)
 
 
-###Cool
+#Cool
 
 
 
