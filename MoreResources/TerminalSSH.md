@@ -10,7 +10,7 @@ If you using a Mac or Linux, search for Terminal. It should be preinstalled. I H
 
 
 You should know some Terminal Commands that are commonly use.  
-First is ls which lists and shows all the files and folders on your current directory.
+First is ls which lists and shows all the files and folders on your current directory. Note that after you entered a command, press enter/return to submit it. 
 
 ```
 ls
@@ -24,6 +24,7 @@ Next is cd. It changes your directory. Before, we downloaded the key. The key is
 
 ```
 cd Downloads
+ls
 ```
 
 
