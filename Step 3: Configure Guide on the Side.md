@@ -1,6 +1,6 @@
 #Step 3: Configuring Guide on the Side
 
-Once you deploy Guide on the Side on a server, you should: 
+I will work on this. In the meantime: 
 
 See the PowerPoint on how to create Tutorials in Guide on the Side:
 
