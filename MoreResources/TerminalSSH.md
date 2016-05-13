@@ -41,6 +41,7 @@ ssh -i "yourkey" ubuntu@public DNS
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal4.png)
 
+Type yes to connect to your instance server!
 
 
 Don't know your Public DNS? Go on the Instance Dashboard on AWS and copy it.
