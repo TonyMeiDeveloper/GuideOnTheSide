@@ -198,3 +198,6 @@ You can also stop and reboot and terminate your virtual server in the instance d
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install6.png)
 
+
+Continue to Step 2 where we deploy Guide on the Side         
+https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/Step%202:%20Deploy%20Guide%20on%20the%20Side.md
