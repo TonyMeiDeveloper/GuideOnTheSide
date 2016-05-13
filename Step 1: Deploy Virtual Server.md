@@ -1,4 +1,4 @@
-#Step 1: Launching a Server, or in this case, a virtual server
+##Step 1: Launching a Server, or in this case, a virtual server
 
 
 I started from scratch. I have no server so I will sign up for AWS or Amazon Web Services which provides cloud servers.  
