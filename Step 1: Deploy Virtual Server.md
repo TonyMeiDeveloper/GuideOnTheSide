@@ -182,6 +182,19 @@ Copy the Public DNS from the instance dashboard.
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install4.png)
 
 
+And paste into a Browser. You should see this or at least something. 
 
 
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install5.png)
+
+
+Congrats. You successfully deploy a virtual server. 
+
+
+
+
+
+You can also stop and reboot and terminate your virtual server in the instance dasboard in AWS. Keep in mind that when an instance is rebooted, the public DNS changes. So you might have to SSH with a different public DNS. 
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install6.png)
 
