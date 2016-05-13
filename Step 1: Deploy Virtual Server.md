@@ -35,4 +35,10 @@ Right in the middle of the dashboard, you will see a big blue button to launch i
 #Choosing Configurations for your Instance Server
 
 
+The first thing you see is Choosing an Amazon Machine Image or Operating System for your server     
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/CreateInstance2.png)
+
+
 
