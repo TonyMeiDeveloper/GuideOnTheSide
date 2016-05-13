@@ -12,7 +12,7 @@ Guide on the Side is a tool that allows you to create tutorials for users vistin
 
 Here is a sample:
 
-![http://code.library.arizona.edu/gots-sample/tutorial/wikipedia-demo](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/Demo.png)
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/Demo.png)
 
 
 
