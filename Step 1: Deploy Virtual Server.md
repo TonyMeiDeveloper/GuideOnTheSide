@@ -124,7 +124,8 @@ https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/Put
 https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/TerminalSSH.md
 
 ##Moving on after you connect to your instance server      
-Let's SSH to connect to our instance server. I will be using a variety of Terminal Commands. Here are some common ones you should know before moving on:
+You need to be able to connect to your instance server. Check the links above. 
+I will be using a variety of Terminal Commands. Here are some common ones you should know before moving on:
 
 ```
 ls
