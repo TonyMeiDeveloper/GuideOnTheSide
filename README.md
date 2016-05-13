@@ -10,5 +10,11 @@ http://code.library.arizona.edu/gots/creator-guide
 What is Guide on the Side?:
 Guide on the Side is a tool that allows you to create tutorials for users visting websites. Tutorials are in a sidebar or popup that engages the user by providing information, navigation, and asking question. It is essentially a tool for active learning.
 
+Here is a sample:
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/Demo.png)
+
+
+
 TUTORIAL:
 
