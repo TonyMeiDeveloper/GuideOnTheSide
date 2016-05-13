@@ -113,8 +113,16 @@ Once you click on Connect, you will see this, which are instructions on how to c
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/connect.png)
 
+##SSH via Putty if you are Windows 
 
-##SSH
+
+
+
+##SSH via Terminal if you are on 
+
+
+
+##Moving on after you connect to your instance server
 Let's SSH to connect to our instance server. I will be using a variety of Terminal Commands. Here are some common ones you should know before moving on:
 
 ```
