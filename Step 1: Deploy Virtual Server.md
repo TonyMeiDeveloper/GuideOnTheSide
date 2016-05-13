@@ -1,4 +1,4 @@
-#Step 1: Deploy a Virtual Server
+#Step 1: Deploy Virtual Server
 
 
 I started from scratch. I have no server so I will sign up for AWS or Amazon Web Services which provides cloud servers.  
