@@ -209,8 +209,8 @@ Go on your browser and go to PublicDNS/guide_on_the_side into the web browser.
 If you see guide on the side, congrats!
 
 Go to PublicDNS/guide_on_the_side/admin or login to access/edit/add tutorials! 
-Default Username: admin
-Default Password: GuideOnTheSideAdmin#1
+Default Username: admin      
+Default Password: GuideOnTheSideAdmin#1     
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works4.png)
