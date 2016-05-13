@@ -114,7 +114,7 @@ Once you click on Connect, you will see this, which are instructions on how to c
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/connect.png)
 
 ##SSH via Putty if you are Windows 
-<a href="https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/PuttySSH.md" target="_blank">Putty SSH</a>
+https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/PuttySSH.md
 
 ##SSH via Terminal if you are on Linux or Mac
 
