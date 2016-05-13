@@ -176,5 +176,12 @@ sudo mysql_secure_installation
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install3.png)
 
 
+Copy the Public DNS from the instance dashboard.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install4.png)
+
+
+
 
 
