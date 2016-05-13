@@ -178,6 +178,64 @@ sudo chmod -R 777 app/webroot/uploads
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/gots12.png)
 
 
+This is something I found out that isn't covered in the Guide on the Side documentations.
+
+What I did was 
+
+```
+sudo a2enmod rewrite 
+sudo service apache2 restart
+```
+
+The command disables directory listing of files when you view the page on a web browser. For more information about the command: http://www.jarrodoberto.com/articles/2011/11/enabling-mod-rewrite-on-ubuntu
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works1.png)
+
+
+##See if it works
+
+Get the public DNS of your virtual server.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works2.png)
+
+
+Go on your browser and go to PublicDNS/guide_on_the_side into the web browser.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works3.png)
+
+
+If you see guide on the side, congrats!
+
+Go to PublicDNS/guide_on_the_side/admin or login to access/edit/add tutorials! 
+Default Username: admin
+Default Password: GuideOnTheSideAdmin#1
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works4.png)
+
+
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/works5.png)
+
+
+This guide was based from the Guide of the Side documentation:
+https://github.com/ualibraries/Guide-on-the-Side/blob/master/README.md#about
+
+Keep in mind, I made several adjustments in this guide that's different to accommodate Amazon Web Servcies and ease of use.
+
+I haven't covered security here. I'll leave that up to you. 
+
+
+
+
+
+
+
+
+
 
 
 
