@@ -56,6 +56,10 @@ Once you exit out of the config file, restart Apache server to apply changes.
 sudo service apache2 restart
 ```
 
+##Guide on the Side Configurations
+
+Next, we should download Guide on the Side. Navigate to /var/www/html.
+
 
 
 
