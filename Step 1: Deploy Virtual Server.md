@@ -118,7 +118,7 @@ Once you click on Connect, you will see this, which are instructions on how to c
 
 
 
-##SSH via Terminal if you are on 
+##SSH via Terminal if you are on Linux or Mac
 
 
 
