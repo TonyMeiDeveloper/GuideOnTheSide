@@ -35,7 +35,7 @@ Right in the middle of the dashboard, you will see a big blue button to launch i
 #Choosing Configurations for your Instance Server
 
 
-The first thing you see is Choosing an Amazon Machine Image or Operating System for your server     
+The first thing you see is Choosing an Amazon Machine Image or Operating System for your server. For my case, I will choose Ubuntu Server 14.04. Also keep in mind which are covered in the free trial. 
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config1.png)
