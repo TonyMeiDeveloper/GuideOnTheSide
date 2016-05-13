@@ -41,3 +41,32 @@ To find the public_dns_name of your instance server, go on the instance dashboar
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/publicdnsname.png)
 
 
+Enter the hostname in Putty. Port is 22 because SSH. You can put something in Save sessions and then press save. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/putty1.png)
+
+
+Go to Connection->SSH->Auth. Click on Browse and select the .ppk key you generated using Puttygen. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/putty2.png)
+
+
+After you selected the key, click open.
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/putty3.png)
+
+
+You should see this. Click yes. You do trust your own instance, right?
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/putty4.png)
+
+
+Wait for a moment for the connection to be made. You should see this. You successfully connected to your instance server via Putty. Continue on with the rest of Guide 1. 
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/putty5.png)
+
