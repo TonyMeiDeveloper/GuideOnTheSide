@@ -121,7 +121,7 @@ https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/Put
 ##SSH via Terminal if you are on Linux or Mac
 
 (Open this in new tab)
-
+https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/TerminalSSH.md
 
 ##Moving on after you connect to your instance server
 Let's SSH to connect to our instance server. I will be using a variety of Terminal Commands. Here are some common ones you should know before moving on:
