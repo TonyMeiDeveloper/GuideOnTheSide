@@ -29,3 +29,18 @@ ls
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal3.png)
+
+
+Once you located your key, we pretty much followed the instructions AWS gave us. Note that my key is example.pem.txt. Yours will be different. 
+
+```
+chmod 400 yourkey
+ssh -i "yourkey" ubuntu@public DNS 
+```
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/terminal4.png)
+
+
+
+
