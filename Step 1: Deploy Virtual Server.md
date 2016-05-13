@@ -166,7 +166,14 @@ Restart apache server to apply changes to your instance server.
 sudo service apache2 restart
 ```
 
+Do a MySQL installation. Enter the same password you set before for MySQL. 
 
+```
+sudo mysql_secure_installation
+```
+
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install3.png)
 
 
 
