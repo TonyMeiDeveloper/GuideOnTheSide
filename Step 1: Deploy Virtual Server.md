@@ -160,6 +160,13 @@ After some waiting, you will be prompted with setting a password for MySQL.
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/install2.png)
 
 
+Restart apache server to apply changes to your instance server. 
+
+```
+sudo service apache2 restart
+```
+
+
 
 
 
