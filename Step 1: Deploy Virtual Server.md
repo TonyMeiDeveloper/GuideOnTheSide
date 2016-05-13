@@ -50,13 +50,17 @@ Second configuration is specifying the specs or hardware of the virtual machine 
 
 
 ##Third Configuration
-Third configuration is setting how many instance you want as well as other settings like VPC, IAM, etc. For simplicity, I'll this page as is and don't change anything.     
+Third configuration is setting how many instance you want as well as other settings like VPC, IAM, etc. For simplicity, I'll leave this page as is and don't change anything.     
 
 
 ![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config3.png)
 
 
+##Fourth Configuration 
+Forth configuartion is adding more storage to your virtual server, but keep in mind that there is a limit on storage for Free Tier customers. 
 
+
+![alt tag](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/config4.png)
 
 
 
